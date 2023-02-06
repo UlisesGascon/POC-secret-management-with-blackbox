@@ -12,6 +12,8 @@
 
 [![promotional banner from youtube](.github/img/banner.png)](https://www.youtube.com/watch?v=beJT7wMvJo4)
 
+Blog post available in [Dev.to](https://dev.to/ulisesgascon/safely-store-secrets-in-git-using-blackbox-419c) and [personal blog](https://blog.ulisesgascon.com/safely-store-secrets-in-git-using-blackbox)
+
 
 ## ⚙️ Instalation
 In mac the best way is to use [Brew](https://brew.sh/), so you should have Brew installed in your machine, in the first place.
