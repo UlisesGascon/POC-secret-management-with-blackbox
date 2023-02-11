@@ -1,4 +1,4 @@
-# POC-secret-management-with-blackbox
+# POC Secret management with Blackbox
 
 **Store secrets securely in Git using strong encryption without compromising the developer experience.**
 
